@@ -47,13 +47,13 @@ x %= 3  # Get the remainder of x divided by 3 (equivalent to x = x % 3)
 # print(x)
 # print(x)
 
-print(10000 // 3.8)
-print(10000 / 3.8)
+# print(10000 // 3.8)
+# print(10000 / 3.8)
 
 
-# name = "Janet"
-# time = "16:00"
-#
-# print(name + " arrived at exactly " + time)
-# print(f"{name} arrived at exactly {time}")
-# print("{} arrived at exactly {}".format(name, time))
+name = "Janet"
+time = "16:00"
+
+print(name + " arrived at exactly " + time)
+print(f"{name} arrived at exactly {time}")
+print("{} arrived at exactly {}".format(name, time))
